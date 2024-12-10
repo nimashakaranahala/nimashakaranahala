@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[I am a Full Stack Developer with a deep fascination for the synergy between design and programming. My journey in this field has allowed me to collaborate with talented teams on numerous high-profile websites. My skill set spans a wide spectrum, encompassing back-end development using open-source technologies such as Node.js. I have a strong appreciation for design and work closely with designers to ensure seamless integration. Additionally, I excel in front-end development, utilizing tools like React, HTML5, CSS3, Javascript, and Bootstrap to create compelling user experiences. My proficiency extends to database management, with expertise in MongoDB and MySQL.]
+<!-- I am a Full Stack Developer with a deep fascination for the synergy between design and programming. My journey in this field has allowed me to collaborate with talented teams on numerous high-profile websites. My skill set spans a wide spectrum, encompassing back-end development using open-source technologies such as Node.js. I have a strong appreciation for design and work closely with designers to ensure seamless integration. Additionally, I excel in front-end development, utilizing tools like React, HTML5, CSS3, Javascript, and Bootstrap to create compelling user experiences. My proficiency extends to database management, with expertise in MongoDB and MySQL.-->
 
 I am eager to contribute my skills to exciting projects and engage in collaborative development within the GitHub community.
 
